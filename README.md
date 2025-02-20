@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🈺 I'm working on my business
+- ▶ Working on my Youtube Channel
 <!--
 **theschoolme/theschoolme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
